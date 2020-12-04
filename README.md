@@ -1,6 +1,8 @@
-# carinha
+# Carinha
 
 Um jogo simples de plataforma :)
+
+![](favicon.png)
 
 [![](screenshot.png)](https://ermogenes.github.io/carinha/)
 
