@@ -2,7 +2,7 @@
 
 Um jogo simples de plataforma :)
 
-![](screenshot.png)
+[![](screenshot.png)](https://ermogenes.github.io/carinha/)
 
 Implementação do [tutorial básico](http://phaser.io/tutorials/making-your-first-phaser-3-game) do [Phaser 3](http://phaser.io/).
 
